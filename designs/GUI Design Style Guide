@@ -1,0 +1,16 @@
+# OpenBMC - Front-End UI Style Guide
+
+Author: Susan Jasinski (susantjasinski@gmail.com)
+Other contributors: Alissa Lee
+Created: 
+
+## Problem Description
+This front-end UI style guide is a collection of modular components 
+in the OpenBMC user interface. It includes rules and descriptions 
+for color, typography, margins/spacing, interactions, etc, to help 
+designers / developers across all companies contributing to the 
+OpenBMC GUI achieve visual and behavior consistency when designing 
+and coding GUI panels. It benefits the UX team in two ways: 
+(1) prototyping ideas and implementing new designs becomes more 
+efficient, and (2) a consistent visual design can be easily enforced 
+throughout the product. 
